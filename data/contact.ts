@@ -23,12 +23,12 @@ export const contactData = {
     },
   ],
   buttons: [
-    {
-      label: "Download Resume",
-      href: "/resume.pdf",
-      variant: "primary",
-      download: true,
-    },
+    // {
+    //   label: "Download Resume",
+    //   href: "/resume.pdf",
+    //   variant: "primary",
+    //   download: true,
+    // },
     {
       label: "Get in Touch",
       href: "mailto:kambojiakhilesh@gmail.com",

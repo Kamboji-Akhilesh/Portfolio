@@ -45,7 +45,7 @@ export default function ContactSection() {
             <a
               key={index}
               href={button.href}
-              download={button.download}
+              // download={button.download}
               className={`px-8 py-3 font-medium rounded-lg inline-block text-center transition-all duration-200 ${
                 button.variant === "primary"
                   ? "bg-black dark:bg-white text-white dark:text-black hover:opacity-90 hover:scale-[1.02]"
